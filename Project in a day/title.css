@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ArsenicaTrial-Medium';
+    src: url('arsenica/ArsenicaTrial-Medium.ttf');
+    
+}
+
+button {
+    font-family: "ArsenicaTrial-Medium";
+}
+
+img {
+    max-width: 100%;
+}
