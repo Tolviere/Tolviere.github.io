@@ -1,11 +1,26 @@
 @font-face {
-    font-family: 'ArsenicaTrial-Medium';
-    src: url('arsenica/ArsenicaTrial-Medium.ttf');
+    font-family: 'ArsenicaTrial-Regular';
+    src: url('arsenica/ArsenicaTrial-Regular.ttf');
     
 }
 
+@font-face {
+    font-family: 'Beachfly Free Trial';
+    src: url('beachfly/Beachfly\ Free\ Trial.ttf');
+}
+
 button {
-    font-family: "ArsenicaTrial-Medium";
+    font-family: "ArsenicaTrial-Regular";
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 10px;
+}
+
+body {
+    margin: 0;
+    background-color: rgba(161, 170, 174, 1);
 }
 
 img {

@@ -5,7 +5,10 @@
 
 button {
     font-family: 'Beachfly Free Trial';
+    margin-left: 25%;
+    margin-right: 25%;
 }
+
 
 body {
     background-color: rgba(144, 30, 5, 1);
